@@ -1,4 +1,4 @@
-<h1>Hi, I'm Robert! <br/><a href="[https://github.com/robertnpalmer])"></a> <a href="https://www.linkedin.com/in/robert-neil-palmer/"></a></h1>
+<h1>Hi, I'm Robert! <br/><a href="https://github.com/robertnpalmer)"></a> <a href="https://www.linkedin.com/in/robert-neil-palmer/"></a></h1>
 
 <h2>👨‍💻 IT Help Desk Project:</h2>
 
