@@ -1,6 +1,6 @@
-<h1>Hi, I'm Robert! <br/><a href="https://github.com/robertnpalmer">IT Help Desk</a> <a href="https://www.linkedin.com/in/robert-neil-palmer/"></a></h1>
+<h1>Hi, I'm Robert! <br/><a href="https://github.com/robertnpalmer"></a> <a href="https://www.linkedin.com/in/robert-neil-palmer/"></a></h1>
 
-<h2>👨‍💻 IT Help Desk Home Lab Project:</h2>
+<h2>👨‍💻 IT Help Desk Project:</h2>
 
 <a href="https://youtu.be/cfQJOiF8x_I">Active Directory Home Lab</a>
 
